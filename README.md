@@ -25,14 +25,9 @@ Wallpapers
   
 # Ignite-Lab---Platform
 
-Link do Projeto
-
-<a link href="https://ignite-lab-platform-joanderson337.vercel.app/" target="_blank">![Site](https://shields.io/badge/acessar-Site-green?&style=for-the-badge)</a>
-
 Link do Desafio
 
 <a link href="https://www.figma.com/file/S2J8xxlqZGQKFhf6UDpb0D/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1" target="_blank">![Site](https://shields.io/badge/acessar-Site-green?&style=for-the-badge)</a>
-
 
 ## Stack utilizada
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
